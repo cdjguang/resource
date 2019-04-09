@@ -32,16 +32,16 @@
 > * [前端知识点总结——Vue][24]
 
 #### 优化
-> * [webpack 代码拆分][]
-> * [彻底解决 webpack 打包文件体积过大][]
-> * [VueJS 开发常见问题集锦][]
-> * [vue@前端早读课][]
-> * [vue 性能优化][]
-> * [vue 实践心得和技巧（一）][]
-> * [使用webpack构建多页面应用][]
-> * [异步组件][]
-> * [Vue 项目中使用 webpack 将多个组件合并打包并实现按需加载][]
-> * [日期处理类库,用于解析、检验、操作、以及显示日期][1111]: http://momentjs.cn/
+> * [webpack 代码拆分][25]
+> * [彻底解决 webpack 打包文件体积过大][26]
+> * [VueJS 开发常见问题集锦][27]
+> * [vue@前端早读课][28]
+> * [vue 性能优化][29]
+> * [vue 实践心得和技巧（一）][30]
+> * [使用webpack构建多页面应用][31]
+> * [异步组件][32]
+> * [Vue 项目中使用 webpack 将多个组件合并打包并实现按需加载][33]
+> * [日期处理类库,用于解析、检验、操作、以及显示日期][34]
 
 
 [5]: http://cn.vuejs.org/v2/guide/index.html
@@ -70,3 +70,14 @@
 [22]: https://segmentfault.com/a/1190000009369312
 [23]: https://mp.weixin.qq.com/s/tF7ABmO8E_mmMuJ9YARRsg
 [24]: https://mp.weixin.qq.com/s/1eFx_Y2kI64LH2ti00N2Cw
+
+[25]: https://segmentfault.com/a/1190000007649417
+[26]: https://www.jianshu.com/p/a64735eb0e2b
+[27]: https://segmentfault.com/a/1190000010230843
+[28]: https://mp.weixin.qq.com/mp/homepage?__biz=MjM5MTA1MjAxMQ==&hid=19&sn=28616f8fbc09839ab53c94b9240d9310&devicetype=iOS10.3.2&version=12020610&lang=zh_CN&nettype=WIFI&ascene=0&fontScale=100&pass_ticket=EHz5%2B4RNCU0Veo8DQKYIiEBCY0kkcZQNFZs%2BqnUI42M%3D&wx_header=1&scene=1
+[29]: https://github.com/Coffcer/Blog/issues/3
+[30]: https://github.com/Coffcer/Blog/issues/2
+[31]: https://github.com/Coffcer/Blog/issues/1
+[32]: https://cn.vuejs.org/v2/guide/components.html#异步组件
+[33]: https://segmentfault.com/a/1190000008376183
+[34]: http://momentjs.cn/
