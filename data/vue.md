@@ -94,3 +94,11 @@
 [37]: https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650210449&idx=1&sn=e1106b9b2995a76f12c300665fc58fc8&chksm=befe00b0898989a66802751f0c96f2cf4f04fe3b4e39d14ca64431bf153be66e345df71586b4&scene=0&key=845f133eeabfe179522cfb68ad1248a6a8ab5bba5d3e17dc041ced599f15f6c4864a1397b9f3dddf4a81d0572f48b586564cd111357f111eb008193587a6ef71370df9480ec8695f95e8ff32f8055017&ascene=0&uin=MjQxNDQ5MjAw&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12020610&nettype=WIFI&fontScale=100&pass_ticket=jkzD8PDKBf61e2YE0I3WuCY0hTAXcLra8zeUfkpLqNE%3D
 [38]: https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650210396&idx=1&sn=d2101fd93d77f871d97b1f7f284c3859&chksm=befe007d8989896bf9b895fde8dbba522610d301f17ca35487849dda4f0bd333b84bf40b9810&scene=0&key=9965dca0b72a0a743b933ed2916c46b558292d7b016679db3aefa13f0c29391aac21fe4aa99a7f0fdd8ef578c6f4b5b8889417d72e2df17e901fe6d91819f6262075fd9cfe4f0f48a743b66753282707&ascene=0&uin=MjQxNDQ5MjAw&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12020610&nettype=WIFI&fontScale=100&pass_ticket=jkzD8PDKBf61e2YE0I3WuCY0hTAXcLra8zeUfkpLqNE%3D
 [39]: https://mp.weixin.qq.com/s?__biz=MjM5NTEwMTAwNg==&mid=2650210323&idx=1&sn=3dfc0980aac75ceac1766d0b4a70896a&chksm=befe0032898989244c8a710902d47ee87025027d243224248d927ad14f18d73482706ded5f47&scene=0&key=9abd68f564ce3a5bcb85a0beb162c9e0057b5f9d03fb92c374a4be34ac0dfaa857f3aa47342d013538fb2372d92f7a7815a5ff727ae28e351b6a650e2e747735d6348d786af7d7705574d6b675ac9458&ascene=0&uin=MjQxNDQ5MjAw&devicetype=iMac+MacBookPro12%2C1+OSX+OSX+10.11.6+build(15G1217)&version=12020610&nettype=WIFI&fontScale=100&pass_ticket=jkzD8PDKBf61e2YE0I3WuCY0hTAXcLra8zeUfkpLqNE%3D
+
+
+#### 其他
+> * [编码如作文：写出高可读 JS 的 7 条原则][40]
+> * [WebSocket 教程 - 阮一峰的网络日志][41]
+
+[40]: https://segmentfault.com/a/1190000009417031
+[41]: https://segmentfault.com/p/1210000009417722/read
