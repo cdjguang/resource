@@ -25,7 +25,7 @@
 > * [基于vue.js重写Cnodejs.org社区的webapp][17]
 > * [Vue.js全家桶高还原网易云音乐(Windows PC版)][18]
 > * [Vue 全家桶 + Mint-Ui 打造高仿 QQMusic，搭配详细说明][19]
-> * [手摸手，带你用vue撸后台 系列二(登录权限篇) ][20]
+> * [手摸手,带你用vue撸后台 系列二(登录权限篇) ][20]
 > * [浅谈 Vue 项目优化 ][21]
 > * [Vue全家桶+Socket.io+Koa2打造一个智能聊天室][22]
 > * [Vue + Node + Mongodb 开发一个完整博客流程][23]
@@ -41,7 +41,7 @@
 > * [使用webpack构建多页面应用][]
 > * [异步组件][]
 > * [Vue 项目中使用 webpack 将多个组件合并打包并实现按需加载][]
-> * [日期处理类库,用于解析、检验、操作、以及显示日期][http://momentjs.cn/]
+> * [日期处理类库,用于解析、检验、操作、以及显示日期][1111]: http://momentjs.cn/
 
 
 [5]: http://cn.vuejs.org/v2/guide/index.html
@@ -65,7 +65,7 @@
 [17]: https://github.com/shinygang/Vue-cnodejs
 [18]: https://segmentfault.com/a/1190000009296404
 [19]: https://segmentfault.com/a/1190000009583786
-[10]: https://segmentfault.com/a/1190000009506097
+[20]: https://segmentfault.com/a/1190000009506097
 [21]: https://segmentfault.com/a/1190000009443366
 [22]: https://segmentfault.com/a/1190000009369312
 [23]: https://mp.weixin.qq.com/s/tF7ABmO8E_mmMuJ9YARRsg
